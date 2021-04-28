@@ -4,7 +4,7 @@
 
 Neil and Jon working through some examples to get a better understanding of the process and possibilities.
 
-[picture of react webpart](https://res.cloudinary.com/brazilnut/image/upload/v1619614527/2021-04-28_07_48_54-SharePoint_Web_Part_Workbench_-_Brave_rvmlbu.png)
+![picture of react webpart](https://res.cloudinary.com/brazilnut/image/upload/v1619614527/2021-04-28_07_48_54-SharePoint_Web_Part_Workbench_-_Brave_rvmlbu.png)
 
 ## Used SharePoint Framework Version
 
