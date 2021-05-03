@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "8e87cffd-c0d1-49b9-b4f7-05407e5df3e6",
+  "alias": "HowdyMonkeyWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+  "supportedHosts": ["SharePointWebPart"],
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Other" },
+    "title": { "default": "HowdyMonkey" },
+    "description": { "default": "React Components in Sharepoint." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HowdyMonkey"
+    }
+  }]
+}

@@ -1,13 +1,13 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "hello-react-sharepoint-client-side-solution",
+    "name": "Howdy Monkey Webpart",
     "id": "14b4c7fd-de5c-4182-ab94-dbcd3abb81c3",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "developer": {
-      "name": "",
+      "name": "Jon and Neil",
       "websiteUrl": "",
       "privacyUrl": "",
       "termsOfUseUrl": "",
@@ -15,6 +15,6 @@
     }
   },
   "paths": {
-    "zippedPackage": "solution/hello-react-sharepoint.sppkg"
+    "zippedPackage": "solution/howdy-monkey.sppkg"
   }
 }

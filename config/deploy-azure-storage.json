@@ -2,6 +2,6 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/deploy-azure-storage.schema.json",
   "workingDir": "./temp/deploy/",
   "account": "<!-- STORAGE ACCOUNT NAME -->",
-  "container": "hello-react-sharepoint",
+  "container": "howdy-monkey-sharepoint",
   "accessKey": "<!-- ACCESS KEY -->"
 }

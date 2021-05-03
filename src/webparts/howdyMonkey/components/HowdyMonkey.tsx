@@ -28,7 +28,7 @@ const Button = styled.a`
   border-radius: 8px;
 `;
 
-const HelloWorld = (props: { description: string }) => {
+const HowdyMonkey = (props: { description: string }) => {
   const {
     helloWorld,
     container,
@@ -65,7 +65,7 @@ const HelloWorld = (props: { description: string }) => {
   );
 };
 
-export default HelloWorld;
+export default HowdyMonkey;
 
 // export default class HelloWorld extends React.Component<IHelloWorldProps, {}> {
 //   public render(): React.ReactElement<IHelloWorldProps> {
